@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+#POINTS TO REMEMBER IN A REACT PROJECT
+Javascript is always written in {} if written under return.
+When u have to acces data from a data file, import packageinfo then from that import whatever data is required.
+Bootstrap can be directly used to make several components, to import use: 'bootstrap/dist/css/bootstrap.min.css'
+
